@@ -1,0 +1,13 @@
+com/buggy/page/VotingPage.class
+com/buggy/driver/ChromeLocalDriverFactory.class
+com/buggy/report/ReportListener.class
+com/buggy/exception/NoPropertiesException.class
+com/buggy/page/RegisterPage.class
+com/buggy/utils/SeleniumUtils.class
+com/buggy/driver/DriverFactory.class
+com/buggy/startup/PropertyLoader.class
+com/buggy/dto/UserProfile.class
+com/buggy/page/DashboaedPage.class
+com/buggy/utils/WaitElement.class
+com/buggy/driver/ChromeOptionsFactory.class
+com/buggy/startup/BaseTest.class
