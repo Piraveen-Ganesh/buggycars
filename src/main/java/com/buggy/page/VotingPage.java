@@ -21,7 +21,7 @@ public class VotingPage {
 	public WebElement lblTotalVotes;
 	
 	@FindBy(xpath = ".//textarea[@id='comment']")
-	public WebElement txtareaComment;
+	public WebElement textareaComment;
 	
 	@FindBy(xpath = ".//button[.='Vote!']")
 	public WebElement btnVote;	
@@ -30,8 +30,8 @@ public class VotingPage {
 	@FindBy(xpath = ".//*[@class='table']//tr[1]//td[3]")
 	public WebElement userComment;
 	
-	@FindBy(xpath = ".//a[contains(@href, 'facebook')]")
-	public WebElement iconFacebook;
+	@FindBy(xpath = ".//a[contains(@href, 'twitter')]")
+	public WebElement iconTwitter;
 	
 	
 	public void clickOnDesiredCar(String carName) {

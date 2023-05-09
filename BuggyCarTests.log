@@ -387,3 +387,87 @@
 [INFO ] 2023-05-07 21:19:24.589 [main] BuggyCarsTestSteps - Profile validation completed
 [INFO ] 2023-05-07 21:19:24.652 [main] BuggyCarsTestSteps - Voting process started
 [INFO ] 2023-05-07 21:19:42.181 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 16:32:37.707 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 16:32:43.055 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 16:33:38.859 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 16:33:42.176 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 16:33:44.131 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 16:33:45.077 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 16:33:45.126 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 16:34:01.625 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 16:36:39.211 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 16:36:42.770 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 16:36:44.424 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 16:36:45.495 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 16:36:45.558 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 16:37:02.111 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 16:37:06.158 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 16:38:59.547 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 16:39:02.712 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 16:39:13.047 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 16:39:18.213 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 16:39:41.730 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 16:39:44.865 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 16:39:46.224 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 16:39:47.558 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 16:39:47.698 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 16:40:03.879 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 16:40:07.886 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 16:51:48.297 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 16:51:51.462 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 16:51:57.786 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 16:51:58.757 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 16:51:58.804 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 16:52:12.649 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 17:08:19.192 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 17:08:22.487 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 17:08:28.696 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 17:08:29.807 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 17:08:29.869 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 17:08:45.171 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 17:58:27.879 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 17:58:30.974 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 17:58:37.312 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 17:58:38.355 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 17:58:38.417 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 17:58:52.569 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 18:00:15.704 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 18:00:18.782 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 18:00:25.046 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 18:00:26.088 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 18:00:26.137 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 18:00:39.488 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 20:18:56.123 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 20:18:59.697 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 20:19:01.098 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 20:19:02.275 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 20:19:02.328 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 20:19:19.398 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 20:19:23.595 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 20:35:03.424 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 20:35:07.737 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 20:35:09.156 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 20:35:10.627 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 20:35:10.721 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 20:35:23.184 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 20:35:27.673 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 20:41:12.527 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 20:41:15.994 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 20:41:17.556 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 20:41:18.924 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 20:41:19.045 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 20:41:35.912 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 20:53:07.367 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 20:53:10.950 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 20:53:12.574 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 20:53:13.672 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 20:53:13.724 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 20:53:30.829 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 20:53:35.428 [main] BuggyCarsTestSteps - 
+[INFO ] 2023-05-09 20:54:44.082 [main] BuggyCarsTestSteps - Clicking on register link
+[INFO ] 2023-05-09 20:54:47.883 [main] BuggyCarsTestSteps - Registration completed
+[INFO ] 2023-05-09 20:54:49.296 [main] BuggyCarsTestSteps - Verifying user profile
+[INFO ] 2023-05-09 20:54:50.739 [main] BuggyCarsTestSteps - Profile validation completed
+[INFO ] 2023-05-09 20:54:50.874 [main] BuggyCarsTestSteps - Voting process started
+[INFO ] 2023-05-09 20:55:08.287 [main] BuggyCarsTestSteps - Voting is done
+[INFO ] 2023-05-09 20:55:12.363 [main] BuggyCarsTestSteps - 

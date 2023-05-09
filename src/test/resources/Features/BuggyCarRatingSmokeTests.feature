@@ -1,10 +1,10 @@
-#Author: projectg29
+#Author: Piraveen
 Feature: Automation of Buggy Cars smoke testing happy path scenarios
 
   Background: Given I am in the Buggy Cars Ratting web application
 
   Scenario: User Registration
-    Given I click to Register button in the Dashboardpage
+    Given I click to Register button in the Dashboard page
     And I enter new username Firstname, Lastname and password
     Then I click on Register button
     And I verify the registration successful message
@@ -24,6 +24,6 @@ Feature: Automation of Buggy Cars smoke testing happy path scenarios
     Then I enter my comments and I click vote button
     And I verify vote number is increased
 
-  Scenario: Buggy car rating - facebook icon verification
-    Given I click on facebook icon
+  Scenario: Buggy car rating - twitter icon verification
+    Given I click on Twitter icon
     And I should see the new browser open and close

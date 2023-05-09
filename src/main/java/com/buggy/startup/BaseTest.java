@@ -10,7 +10,7 @@ import org.testng.annotations.Listeners;
 import com.aventstack.extentreports.testng.listener.ExtentITestListenerClassAdapter;
 import com.buggy.driver.DriverFactory;
 import com.buggy.dto.UserProfile;
-import com.buggy.page.DashboaedPage;
+import com.buggy.page.DashboardPage;
 import com.buggy.page.RegisterPage;
 import com.buggy.page.VotingPage;
 import com.buggy.report.ReportListener;
@@ -22,7 +22,7 @@ import io.cucumber.java.Before;
 public class BaseTest {
 
 	public static WebDriver driver;
-	public static DashboaedPage dashboardpage;
+	public static DashboardPage dashboardpage;
 	public static RegisterPage registrationpage;
 	public static VotingPage votingpage;
 	public static UserProfile userprofile;
@@ -37,7 +37,7 @@ public class BaseTest {
 
 	public static void initiatePages() {
 
-		dashboardpage = new DashboaedPage(driver);
+		dashboardpage = new DashboardPage(driver);
 		registrationpage = new RegisterPage(driver);
 		votingpage = new VotingPage(driver);
 		userprofile = new UserProfile();

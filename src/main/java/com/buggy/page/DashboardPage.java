@@ -8,11 +8,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.buggy.utils.WaitElement;
 
-public class DashboaedPage {
+public class DashboardPage {
 
 	private WebDriver driver;
 
-	public DashboaedPage(WebDriver webDriver) {
+	public DashboardPage(WebDriver webDriver) {
 		this.driver = webDriver;
 		PageFactory.initElements(driver, this);
 	}
